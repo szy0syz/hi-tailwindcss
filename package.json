@@ -1,0 +1,14 @@
+{
+  "name": "hi-tailwindcss",
+  "version": "1.0.0",
+  "description": "tailwind-css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind"
+  ],
+  "author": "Jerry Shi",
+  "license": "ISC"
+}
